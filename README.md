@@ -1,0 +1,2 @@
+# Image-Classification-on-CIFAR-100-Transfer-Learning-vs-Custom-CNN
+Deep learning project comparing two approaches to image classification on CIFAR-100 — a dataset with 60,000 images across 100 categories, where the images are only 32×32 pixels and there are just 500 training examples per class.  Developed as part of a deep learning course (Master's in Data Science &amp; AI — Nuclio Digital School)
